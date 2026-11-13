@@ -1,0 +1,189 @@
+# ==========================================
+# PERSONAL PORTFOLIO
+# Toavina Mahasetra Andriamanalina
+# ==========================================
+
+name: "Toavina Mahasetra Andriamanalina"
+
+headline: "Process Engineer | Engineering Management Graduate Student"
+
+location: "Houston, Texas, USA"
+
+email: "toavinaandriamanalina@gmail.com"
+
+linkedin: "https://www.linkedin.com/in/toavina-mahasetra-andriamanalina-959461195/"
+
+summary: >
+  Process engineer with 5+ years of experience across mining,
+  manufacturing, and process operations. Currently pursuing a
+  Master's in Engineering Management and Leadership at Rice University.
+  Experienced in process optimization, continuous improvement,
+  production planning, process troubleshooting, data analytics,
+  and industrial project management. Seeking a Summer 2027
+  internship in manufacturing, operations, or projects.
+
+# ==========================================
+# CAREER INTERESTS
+# ==========================================
+
+career_interests:
+  - Manufacturing and industrial operations
+  - Process optimization and troubleshooting
+  - Continuous improvement
+  - Production planning and operational decision-making
+  - Industrial project management
+  - Engineering data analytics
+
+# ==========================================
+# EDUCATION
+# ==========================================
+
+education:
+
+  - institution: "Rice University"
+    degree: "Master's in Engineering Management and Leadership"
+    location: "Houston, Texas"
+    dates: "2026–Present"
+
+  - institution: "University of Antananarivo"
+    degree: "Chemical and Industrial Process Engineering"
+    location: "Antananarivo, Madagascar"
+    dates: "2015–2020"
+    distinction: "Highest honors"
+
+# ==========================================
+# PROFESSIONAL EXPERIENCE
+# ==========================================
+
+experience:
+
+  - organization: "ARTIC SARL"
+    role: "General Advisor"
+    industry: "Paint Manufacturing"
+    location: "Antsirabe, Madagascar"
+    dates: "October 2025 – June 2026"
+
+    highlights:
+      - "Managed daily operations as second-in-command to the CEO, overseeing a 20-person manufacturing company."
+      - "Introduced digital inventory data collection, reducing the stockout rate from 5% to 2%."
+      - "Resolved a resin shock during a raw-material transition, recovering from five days of white-paint production stoppage."
+      - "Oversaw construction of a new production site, with an estimated 25% increase in production capacity (250 kg/day)."
+
+  - organization: "Ambatovy Joint-Venture"
+    role: "Junior Process Engineer – Refinery Operations"
+    industry: "Nickel and Cobalt Mining"
+    location: "Toamasina, Madagascar"
+    dates: "June 2023 – August 2025"
+
+    highlights:
+      - "Developed and scheduled daily production plans around process upsets and operational constraints, coordinating activities affecting 50+ workers."
+      - "Built analytical tools using VBA, PI DataLink, and DataPARC to identify process threats and support operational decisions."
+      - "Reduced nickel losses through reprocessing by 20%."
+      - "Reduced sulfuric acid (H2SO4) consumption by 20% and ammonia (NH3) consumption by 35%."
+      - "Investigated a dryer failure that had caused 10 days of cobalt production stoppage and provided implemented corrective and preventive recommendations."
+
+    recognition:
+      - "Kaizen Champion of the Refinery Process Engineers (2024)"
+
+  - organization: "ARTIC SARL"
+    role: "Project Lead"
+    industry: "Paint Manufacturing"
+    location: "Antsirabe, Madagascar"
+    dates: "October 2022 – May 2023"
+
+    highlights:
+      - "Designed and implemented a water-treatment station, increasing available transport space by 30%."
+      - "Formulated a detergent for cleaning paint containers, reducing housekeeping expenses by 20%."
+      - "Improved paint whiteness, contributing to a 20% increase in white-paint sales."
+
+  - organization: "Centre National de Recherches sur l'Environnement (CNRE)"
+    role: "Full-Time Intern Researcher – Microbiology Department"
+    industry: "Environmental Research"
+    location: "Antananarivo, Madagascar"
+    dates: "October 2020 – May 2022"
+
+    highlights:
+      - "Conducted research on self-healing concrete using bacteria that produce limestone to fill cracks."
+      - "Assisted with research on bacterial inoculum as an alternative to fertilizers for tree-shoot growth in reforestation efforts."
+      - "Collected, organized, and analyzed experimental data to evaluate bacterial performance."
+
+# ==========================================
+# TECHNICAL SKILLS
+# ==========================================
+
+skills:
+
+  data_and_analytics:
+    - Python
+    - Excel
+    - VBA
+    - Excel Solver
+
+  industrial_data_systems:
+    - PI ProcessBook
+    - PI DataLink
+    - DataPARC
+
+  engineering_and_operations:
+    - Process Optimization
+    - Production Planning
+    - Continuous Improvement
+    - Process Troubleshooting
+    - Industrial Project Management
+    - Manufacturing Operations
+
+# ==========================================
+# LANGUAGES
+# ==========================================
+
+languages:
+
+  - language: "Malagasy"
+    proficiency: "Native"
+
+  - language: "English"
+    proficiency: "TOEFL 111"
+
+  - language: "French"
+    proficiency: "Very good"
+
+# ==========================================
+# PORTFOLIO PROJECTS
+# ==========================================
+
+portfolio_projects: []
+
+# Add your projects as you publish them.
+#
+# Example:
+#
+# portfolio_projects:
+#   - title: "Market Basket Analysis"
+#     description: "Analyzing purchasing patterns using transaction data."
+#     technologies:
+#       - Python
+#       - Pandas
+#       - Matplotlib
+#     repository: "https://github.com/username/repository-name"
+#
+#   - title: "Production Optimization"
+#     description: "Optimizing manufacturing production decisions."
+#     technologies:
+#       - Python
+#       - Excel Solver
+#     repository: "https://github.com/username/repository-name"
+
+# ==========================================
+# INTERNSHIP AVAILABILITY
+# ==========================================
+
+availability:
+
+  internship: "Summer 2027"
+
+  areas:
+    - Manufacturing
+    - Operations
+    - Project Management
+    - Process Engineering
+    - Industrial Engineering
